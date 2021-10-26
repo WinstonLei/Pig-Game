@@ -25,4 +25,3 @@ Whenever the player decide to stop their turn, their round points are
 added to their total points.
 
 When a player's total points reach 100 (controllable below), they win.
-'''
